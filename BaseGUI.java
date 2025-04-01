@@ -20,7 +20,7 @@ import javafx.scene.Cursor;
 /**
  * Base GUI / wrapper for the panels
  *
- * @author Jamil Karabaev, Shafkat Khan
+ *
  */
 public class BaseGUI extends Application
 {
