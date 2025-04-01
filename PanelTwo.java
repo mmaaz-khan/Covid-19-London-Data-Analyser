@@ -23,7 +23,7 @@ import java.time.LocalDate;
  * Displays geographical visual representation of London boroughs, coloured according to death rates
  * Contains clickable elements to view sortable table of data for each given borough
  *
- * @author Shafkat Khan
+ *
  */
 public class PanelTwo extends Panel
 {
