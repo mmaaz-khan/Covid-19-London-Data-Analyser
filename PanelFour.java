@@ -26,7 +26,7 @@ import javafx.scene.Cursor;
  * Displays the total and daily deaths and cases in chart form
  * Displays the total change of people from visiting a given area
  * 
- * Done by Adel 
+ *
  */
 public class PanelFour extends Panel
 {
