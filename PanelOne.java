@@ -12,7 +12,7 @@ import java.time.format.DateTimeFormatter;
  * Displays welcome messages
  * Displays messages based on selected date range
  *
- * @author Shafkat Khan, Jamil Karabaev
+ *
  */
 public class PanelOne extends Panel
 {
