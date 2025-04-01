@@ -7,7 +7,7 @@ import java.util.stream.*;
 /**
  * Parent class to the panels
  *
- * @author Shafkat Khan
+ *
  */
 public class Panel
 {
