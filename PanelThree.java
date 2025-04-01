@@ -13,7 +13,7 @@ import javafx.scene.Cursor;
  * Displays the change in number of people going to the park and for leisure
  * Displays the change in number of people going to the workplaces and commuting
  * 
- * Done by Maaz
+ *
  */
 public class PanelThree extends Panel
 {
